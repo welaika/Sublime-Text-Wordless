@@ -1,5 +1,5 @@
 {
-  "scope": "text.haml - variable.other.readwrite.global.ruby, source.php - variable.other.php",
+  "scope": "source.php - variable.other.php",
 
   "completions":
   [
