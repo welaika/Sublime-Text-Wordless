@@ -2,7 +2,7 @@
 	"schema_version": "1.2",
 	"packages": [
 		{
-			"name": "Sublime Text 2 Wordless",
+			"name": "Wordless",
 			"description": "Sublime Text 2 Wordless Package is a collection of Wordless helpers autocompletions for Sublime Text 2",
 			"author": "welaika",
 			"homepage": "https://github.com/welaika/Sublime-Text-2-Wordless",
