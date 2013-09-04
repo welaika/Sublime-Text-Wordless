@@ -1,11 +1,13 @@
 ================
-Sublime Text 2 Wordless Package
+Sublime Text Wordless Package
 ================
 
-Sublime Text 2 [Wordless](https://github.com/welaika/wordless) Package is a collection of Wordless helpers autocompletions for Sublime Text 2
+Sublime Text [Wordless](https://github.com/welaika/wordless) Package is a collection of Wordless' helpers auto-completions for Sublime Text 2 and 3
 
-Author : Welaika - https://github.com/welaika/Sublime-Text-2-Wordless
+Author : Welaika - https://github.com/welaika/Sublime-Text-Wordless
 
-Install instructions :
+###Install instructions :
 
-Clone into your sublime-text-2 package directory (in Linux ~/.config/sublime-text-2/Packages). We hope to go into ST2 community repo as soon as possible
+Install via the ST [package control](https://sublime.wbond.net/docs/usage)
+
+Clone into your sublime-text package directory (in Linux ~/.config/sublime-text-*/Packages).
