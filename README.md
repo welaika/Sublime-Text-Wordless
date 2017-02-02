@@ -16,6 +16,10 @@ Clone into your sublime-text package directory (in Linux ~/.config/sublime-text-
 ## Need more tools?
 Visit [Wordpress Tools](http://wptools.it).
 
+## Author
+
+made with ❤️ and ☕️ by [weLaika](http://dev.welaika.com)
+
 ## License
 
 (The MIT License)
