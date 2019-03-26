@@ -1,6 +1,5 @@
-================
-Sublime Text Wordless Package
-================
+# Sublime Text Wordless Package
+
 
 Sublime Text [Wordless](https://github.com/welaika/wordless) Package is a collection of Wordless' helpers auto-completions for Sublime Text 2 and 3
 
@@ -24,7 +23,7 @@ made with ❤️ and ☕️ by [weLaika](http://dev.welaika.com)
 
 (The MIT License)
 
-Copyright © 2014 weLaika
+Copyright © 2014-2019 weLaika
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the ‘Software’), to deal in
