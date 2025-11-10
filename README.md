@@ -1,11 +1,21 @@
 # Sublime Text Wordless Package
 
+![unmaintained](https://img.shields.io/badge/status-unmaintained-red)
+
+> ## **⚠️ This repository has been archived and is no longer actively maintained.**
+>
+>
+> ### What this means:
+>
+> - No further updates, bug fixes, or security patches will be provided.
+> - Issues and pull requests will not be addressed.
+> - Use this code at your own risk.
 
 Sublime Text [Wordless](https://github.com/welaika/wordless) Package is a collection of Wordless' helpers auto-completions for Sublime Text 2 and 3
 
 Author : Welaika - https://github.com/welaika/Sublime-Text-Wordless
 
-###Install instructions :
+### Install instructions :
 
 Install via the ST [package control](https://sublime.wbond.net/docs/usage)
 
